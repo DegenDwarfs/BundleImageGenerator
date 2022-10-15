@@ -1,0 +1,9 @@
+# IDE
+venv
+.idea
+__pycache__/
+
+# Project
+.env
+bundles
+config.py
