@@ -3,9 +3,9 @@ Stack multiple images from a URL into a single image. Perfect for the Hydra Vaul
 Support for +2 NFT Bundle
 
 <p align="center">
-  <img src="https://github.com/DegenDwarfs/BungleImageGenerator/blob/main/img/examples/2.png" width="200">
-  <img src="https://github.com/DegenDwarfs/BungleImageGenerator/blob/main/img/examples/3.png" width="200">
-  <img src="https://github.com/DegenDwarfs/BungleImageGenerator/blob/main/img/examples/6.png" width="200">
+  <img src="https://github.com/DegenDwarfs/BundleImageGenerator/blob/main/img/examples/2.png" width="200">
+  <img src="https://github.com/DegenDwarfs/BundleImageGenerator/blob/main/img/examples/3.png" width="200">
+  <img src="https://github.com/DegenDwarfs/BundleImageGenerator/blob/main/img/examples/6.png" width="200">
 </p>
 
 
